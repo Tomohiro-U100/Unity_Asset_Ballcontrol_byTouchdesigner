@@ -8,6 +8,8 @@ Download the Asset file.
 Next, Import the package from Aseet TAG in Unity Editor.  [Import Package] -> [Custum Package]
 
 
+Touchdesigner:https://github.com/Tomohiro-U100/Touchdesinger-Unity-with-OSCJack
+
 
 
 Default setting: Ball launch conditions
@@ -16,4 +18,4 @@ OSC received Data needs to exceeds 0.2 and reaches -0.1 in 5 seconds.
 *The game automatically restarts after 10 seconds.
 
 
-
+OSCJack:https://github.com/keijiro/OscJack
