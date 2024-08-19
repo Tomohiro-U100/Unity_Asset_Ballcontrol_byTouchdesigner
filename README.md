@@ -7,6 +7,8 @@ Download the Asset file.
 
 Next, Import the package from Aseet TAG in Unity Editor.  [Import Package] -> [Custum Package]
 
+Finally, Double click [Test_BallControl_Evnet_Controller]  in [Scenes] folder
+
 
 Touchdesigner:https://github.com/Tomohiro-U100/Touchdesinger-Unity-with-OSCJack
 
